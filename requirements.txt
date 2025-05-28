@@ -12,3 +12,4 @@ jupyterlab==3.5.3
 ipython==8.10.0
 openpyxl==3.0.10
 tqdm==4.64.1
+gdown==5.2.0
